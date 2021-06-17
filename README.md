@@ -1,2 +1,2 @@
 # To-do-list
-This is the code to host a To Do List Web App locally.
+This is the code to host a To Do List(without Database) Web App locally.
